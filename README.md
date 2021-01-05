@@ -12,3 +12,8 @@ blog list
 
 [suricata 协议解析](https://github.com/scarletttt/scarletttt.github.io/issues/5) 
 
+[tcp 状态检测](https://github.com/scarletttt/scarletttt.github.io/issues/6) 
+
+[smb 检测逃逸方法](https://github.com/scarletttt/scarletttt.github.io/issues/7) 
+
+[suricata 规则检测](https://github.com/scarletttt/scarletttt.github.io/issues/8) 
