@@ -17,3 +17,13 @@ blog list
 [smb 检测逃逸方法](https://github.com/scarletttt/scarletttt.github.io/issues/7) 
 
 [suricata 规则检测](https://github.com/scarletttt/scarletttt.github.io/issues/8) 
+
+[IDS 拒绝服务攻击检测](https://github.com/scarletttt/scarletttt.github.io/issues/9) 
+
+[Rust 用法](https://github.com/scarletttt/scarletttt.github.io/issues/10) 
+
+[kali linux hping 用法](https://github.com/scarletttt/scarletttt.github.io/issues/11) 
+
+[https服务搭建 ](https://github.com/scarletttt/scarletttt.github.io/issues/13) 
+
+[IDS入侵检测逃逸技术](https://github.com/scarletttt/scarletttt.github.io/issues/14) 
